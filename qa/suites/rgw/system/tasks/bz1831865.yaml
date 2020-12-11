@@ -1,0 +1,9 @@
+tasks:
+  - ssh-keys: null
+  - install.ship_utilities:
+  - rhceph_ansible: null
+  - workunit:
+      clients:
+        client.0:
+          - rgw/bz1831865.sh
+
